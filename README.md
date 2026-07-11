@@ -1,3 +1,3 @@
 # Emoch Obfuscated Scripts
 
-CURRENTLY Supporting [[3]]
+CURRENTLY Supporting 3
