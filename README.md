@@ -1,3 +1,3 @@
 # Emoch Obfuscated Scripts
 
-CURRENTLY Supporting 6 Games
+CURRENTLY Supporting 7 Games
