@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/emirontop1/Emoch/refs/heads/main/" .. game.PlaceId ..".lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/emirattaa/Emoch/refs/heads/main/" .. game.PlaceId ..".lua"))()
 
